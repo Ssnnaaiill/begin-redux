@@ -1,1 +1,1 @@
-// write containers related to redux
+// create container components interlocked with redux
