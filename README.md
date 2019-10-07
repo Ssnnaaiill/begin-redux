@@ -1,7 +1,8 @@
 # begin-redux
 > [reference](https://velopert.com/3533)
 
-## packages
+## 준비
+
 프로젝트에 사용할 패키지들은 다음과 같습니다. yarn이나 npm을 통해 설치해줍니다.
 ```
 $ yarn add redux react-redux redux-actions immutable
